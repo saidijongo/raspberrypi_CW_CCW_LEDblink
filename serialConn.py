@@ -1,3 +1,4 @@
+#Commands are sent to Arduino nano rp2040 via serial communication
 import tkinter as tk
 import serial
 import queue
